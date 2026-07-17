@@ -64,7 +64,7 @@
 
 #### 🎞️ [Scene 1] 규율(Discipline)
 
-![S1_storyboard.png](%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C%20%EB%AC%B8%EC%84%9C/S1_storyboard.png)
+![S1 storyboard.png](./02.Source/S1_storyboard.png)
 
 | **Run time** | 00:00:02:09 |
 | --- | --- |
