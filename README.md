@@ -111,9 +111,10 @@
 </aside>
 
 <aside>
-✅ ### 최종 결과물
+  
+### ✅ 최종 결과물
 
-| 파일명 | [Boxraw ad.mov](B1-2/01.Result/Boxraw ad..mov) |
+| 파일명 | [Boxraw ad.mov](./02.Source/Boxraw ad.mov) |
 | --- | --- |
 | 길이 | 00:10 |
 | 해상도 | 1280x720 |
