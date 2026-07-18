@@ -1,11 +1,6 @@
 # B1-2_Codyssey
 멀티모달 콘텐츠 제작
 
-# 스토리보드 문서
-
-생성날짜: July 13, 2026
-태그: 최종 결과물
-
 # 스토리보드
 
 ---
@@ -64,7 +59,7 @@
 
 #### 🎞️ [Scene 1] 규율(Discipline)
 
-![S1 storyboard.png](./02.Source/S1_storyboard.png)
+!S1_storyboard.png
 
 | **Run time** | 00:00:02:09 |
 | --- | --- |
@@ -81,7 +76,7 @@ Result | 링 바깥쪽에 앉아 핸드랩을 감고있는 남성 |
 
 #### 🎞️ [Scene 2] 마인드풀니스 (Mindfulness)
 
-![Gemini_Generated_Image_rgv649rgv649rgv6.png](%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C%20%EB%AC%B8%EC%84%9C/Gemini_Generated_Image_rgv649rgv649rgv6.png)
+!Gemini_Generated_Image_rgv649rgv649rgv6.png
 
 | Run time | 00:00:02:04 |
 | --- | --- |
@@ -98,7 +93,7 @@ Result | 경기 시작전 헤드기어를 쓰고 집중하는 여성 복서 |
 
 #### 🎞️ [Scene 3] 사랑&진실 (Love&Truth)
 
-![Gemini_Generated_Image_vqfplmvqfplmvqfp.png](%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C%20%EB%AC%B8%EC%84%9C/Gemini_Generated_Image_vqfplmvqfplmvqfp.png)
+!Gemini_Generated_Image_vqfplmvqfplmvqfp.png
 
 | Run time | 00:00:02:23 |
 | --- | --- |
@@ -115,7 +110,7 @@ Result | 스파링을 하고 있는 두 선수와 이를 돕는 세컨들의 모
 
 #### 🎞️ [Scene 4] “We don’t play boxing”
 
-![S4_storyboard.png](%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C%20%EB%AC%B8%EC%84%9C/S4_storyboard.png)
+!S4_storyboard.png
 
 | Run time | 00:00:02:00 |
 | --- | --- |
@@ -158,4 +153,17 @@ The music instantly cuts off cleanly into absolute silence immediately after the
 Instruments: Industrial synths, heavy pounding drums, booming sub-bass. |
 | BGM
 Result |  |
+</aside>
+
+<aside>
+✅
+
+### 최종 결과물
+
+| 파일명 |  |
+| --- | --- |
+| 길이 | 00:10 |
+| 해상도 | 1280x720 |
+| 프레임레이트 | 23.98p |
+| 코덱 | Timecode, H.264, MPEG-4 AAC |
 </aside>
