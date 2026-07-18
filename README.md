@@ -6,9 +6,7 @@
 ---
 
 <aside>
-💡
-
-### 브랜드 아이덴티티
+💡 ### 브랜드 아이덴티티
 
 | **브랜드 이름** | BOXRAW |
 | --- | --- |
@@ -32,9 +30,7 @@
 </aside>
 
 <aside>
-📄
-
-### 사용 도구 목록
+📄 ### 사용 도구 목록
 
 | 도구 | 용도 | 특징(선정 이유) |
 | --- | --- | --- |
@@ -53,13 +49,11 @@
 </aside>
 
 <aside>
-🎬
-
-### 씬 구성
+🎬 ### 씬 구성
 
 #### 🎞️ [Scene 1] 규율(Discipline)
 
-!S1_storyboard.png
+![S1 스토리보드](./02.Source/S1_storyboard.png)
 
 | **Run time** | 00:00:02:09 |
 | --- | --- |
@@ -76,7 +70,7 @@ Result | 링 바깥쪽에 앉아 핸드랩을 감고있는 남성 |
 
 #### 🎞️ [Scene 2] 마인드풀니스 (Mindfulness)
 
-!Gemini_Generated_Image_rgv649rgv649rgv6.png
+![S2 스토리보드](./02.Source/S2_storyboard.png)
 
 | Run time | 00:00:02:04 |
 | --- | --- |
@@ -93,7 +87,7 @@ Result | 경기 시작전 헤드기어를 쓰고 집중하는 여성 복서 |
 
 #### 🎞️ [Scene 3] 사랑&진실 (Love&Truth)
 
-!Gemini_Generated_Image_vqfplmvqfplmvqfp.png
+![S3 스토리보드](./02.Source/S3_storyboard.png)
 
 | Run time | 00:00:02:23 |
 | --- | --- |
@@ -110,7 +104,7 @@ Result | 스파링을 하고 있는 두 선수와 이를 돕는 세컨들의 모
 
 #### 🎞️ [Scene 4] “We don’t play boxing”
 
-!S4_storyboard.png
+![S4 스토리보드](./02.Source/S4_storyboard.png)
 
 | Run time | 00:00:02:00 |
 | --- | --- |
@@ -156,11 +150,9 @@ Result |  |
 </aside>
 
 <aside>
-✅
+✅ ### 최종 결과물
 
-### 최종 결과물
-
-| 파일명 |  |
+| 파일명 | [Boxraw ad.mov](./02.Source/Boxraw ad.mov) |
 | --- | --- |
 | 길이 | 00:10 |
 | 해상도 | 1280x720 |
