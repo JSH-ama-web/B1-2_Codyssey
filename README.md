@@ -102,28 +102,14 @@
 
 ### 🎵 배경음악&나레이션
 
-| Narration
-Prompt<br>(Eng.) | [Tone & Delivery Style]
-- Tone: Calm, steady, and deeply grounded. Speak like a wise mentor or a seasoned observer, not an excited announcer.
-- Emotion: Sincere and resolute. Deliver the message with quiet strength, avoiding any sudden peaks in pitch or volume. Keep the intonation natural and flat but firm.
-- Acoustics: Close-mic effect. Soft-spoken but highly clear, like a calm narration in a high-end cinematic documentary.
+## 🎵 배경음악&나레이션
 
-[Duration & Pacing Constraints]
-- **TOTAL DURATION CRITICAL: The entire audio must be completed within 10 to 12 seconds.**
-- Pacing: Deliberate and measured, but strictly managed to fit the time limit. Do not stretch pauses too long.
-- Timing Breakdown: Divide the text into 4 segments to match 4 video cuts. Allocate approximately 2.5 to 3 seconds per segment (including short, natural pauses). |
-| --- | --- |
-| Narration
-Result | #1 : tolerates no compromises.
-#2 : stares only at the target. 
-#3 : In this ring, there is no room for lies. 
-#4 : we don't play boxing. |
-| BGM<br>Prompt<br>(Eng.) | Cinematic sports advertisement background track, 10 seconds duration.
-Starts with an intense, modern, rhythmic industrial beat and ticking sound, building dark tension and grit (0-8 seconds). High energy, passionate, and determined mood.
-At exactly 8 seconds, a sudden massive, deep sub-bass drop and heavy sub-kick impact hits, coinciding with the "WE DON'T PLAY BOXING" text appear on screen.
-The music instantly cuts off cleanly into absolute silence immediately after the heavy bass impact, leaving a dramatic lingering finish. No trailing reverb, clean cut-off at the end.
-Instruments: Industrial synths, heavy pounding drums, booming sub-bass. |
-| BGM<br>Result |  |
+| 항목 | 내용 |
+| ----- | ----- |
+| **Narration<br>Prompt (Eng.)** | **[Tone & Delivery Style]**<br>• Tone: Calm, steady, and deeply grounded. Speak like a wise mentor or a seasoned observer, not an excited announcer.<br>• Emotion: Sincere and resolute. Deliver the message with quiet strength, avoiding any sudden peaks in pitch or volume. Keep the intonation natural and flat but firm.<br>• Acoustics: Close-mic effect. Soft-spoken but highly clear, like a calm narration in a high-end cinematic documentary.<br><br>**[Duration & Pacing Constraints]**<br>• TOTAL DURATION CRITICAL: The entire audio must be completed within 10 to 12 seconds.<br>• Pacing: Deliberate and measured, but strictly managed to fit the time limit. Do not stretch pauses too long.<br>• Timing Breakdown: Divide the text into 4 segments to match 4 video cuts. Allocate approximately 2.5 to 3 seconds per segment (including short, natural pauses). |
+| **Narration<br>Result** | #1 : tolerates no compromises.<br>#2 : stares only at the target.<br>#3 : In this ring, there is no room for lies.<br>#4 : we don't play boxing. |
+| **BGM Prompt (Eng.)** | Cinematic sports advertisement background track, 10 seconds duration.<br>Starts with an intense, modern, rhythmic industrial beat and ticking sound, building dark tension and grit (0-8 seconds). High energy, passionate, and determined mood.<br>At exactly 8 seconds, a sudden massive, deep sub-bass drop and heavy sub-kick impact hits, coinciding with the "WE DON'T PLAY BOXING" text appear on screen.<br>The music instantly cuts off cleanly into absolute silence immediately after the heavy bass impact, leaving a dramatic lingering finish. No trailing reverb, clean cut-off at the end.<br>Instruments: Industrial synths, heavy pounding drums, booming sub-bass. |
+| **BGM Result** | (내용 없음) |
 </aside>
 
 <aside>
